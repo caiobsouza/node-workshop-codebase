@@ -2,7 +2,7 @@ const http = require('http');
 const winston = require('winston');
 const dotenv = require('dotenv');
 
-dotenv.config();
+//dotenv.config();
 
 const app = require('./src/app');
 
